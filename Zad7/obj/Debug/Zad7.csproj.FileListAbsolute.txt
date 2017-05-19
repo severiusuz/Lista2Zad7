@@ -1,0 +1,6 @@
+D:\33InfA\Pieniazek\Lista2\Zad7\Zad7\bin\Debug\Zad7.exe.config
+D:\33InfA\Pieniazek\Lista2\Zad7\Zad7\bin\Debug\Zad7.exe
+D:\33InfA\Pieniazek\Lista2\Zad7\Zad7\bin\Debug\Zad7.pdb
+D:\33InfA\Pieniazek\Lista2\Zad7\Zad7\obj\Debug\Zad7.csprojResolveAssemblyReference.cache
+D:\33InfA\Pieniazek\Lista2\Zad7\Zad7\obj\Debug\Zad7.exe
+D:\33InfA\Pieniazek\Lista2\Zad7\Zad7\obj\Debug\Zad7.pdb
